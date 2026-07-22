@@ -295,7 +295,7 @@ Sinh viên cần nộp đầy đủ các nội dung sau:
 Họ và tên: Vòng Tiến Phong
 Mã số sinh viên: 110125130
 Lớp: DA25TTB
-Tên đề tài: Thiết kế website bán thiết bị điện tử và các sản phẩm công nghệ
+Tên đề tài: Thiết kế website bán thiết bị điện tử và các sản phẩm công nghệ.
 Tên website demo: PhongTech
 Liên kết GitHub repository: https://github.com/TKW-22526/final-test-web-design-ex-KazeKazeeee.git
 Liên kết GitHub Pages: Chưa cập nhật
