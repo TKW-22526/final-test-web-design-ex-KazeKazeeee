@@ -379,7 +379,6 @@ function renderFooter() {
 
         <div class="d-flex flex-column flex-md-row justify-content-between small">
           <span>© 2026 PhongTech — Đồ án website bán thiết bị điện tử.</span>
-          <span>Giá trên website là giá tham khảo phục vụ học tập.</span>
         </div>
       </div>
     </footer>

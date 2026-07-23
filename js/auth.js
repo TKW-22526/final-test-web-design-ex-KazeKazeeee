@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     document.getElementById("userStatus").innerHTML = `
       <div class="alert alert-success">
         <i class="bi bi-person-check me-2"></i>
-        Bạn đang đăng nhập mô phỏng với tài khoản
+        Bạn đang đăng nhập với tài khoản
         <strong>${currentUser.email}</strong>.
         <button id="logoutBtn" class="btn btn-sm btn-outline-success ms-2">
           Đăng xuất
@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     localStorage.setItem("phongtech_user", JSON.stringify({ email }));
-    showToast("Đăng nhập mô phỏng thành công.");
+    showToast("Đăng nhập thành công.");
 
     window.setTimeout(() => {
       window.location.href = rootUrl("index.html");
@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }),
       );
 
-      showToast("Tạo tài khoản mô phỏng thành công.");
+      showToast("Tạo tài khoản thành công.");
 
       window.setTimeout(() => {
         window.location.href = rootUrl("index.html");
